@@ -1,0 +1,17 @@
+Necesito saber en que estoy gastando, vas a ser el aceosor financiero de mi tarjeta de crédito
+Te voy a pasar un pdf con el estado de cuenta de mi tarjeta de credito y con esa información vas a genera un reporte siguiento estos pasos:
+Paso 1 - Meses sin intereses
+Genera una tabla con las siguientes columnas: Descripción, Monto Original, Saldo Pendiente, Mensualidad (Saldo requerido) y Numero de pago
+Agrega los registros de la sección COMPRAS Y CARGOS DIFERIDOS A MESES SIN INTERESES
+Paso 2 - Extraer Movimientos
+Genera una tabla dentro del reporte con las siguientes columnas: Fecha, Concepto, Monto(en formato de numero y con el signo + o - ) y Categoria (Las categorías son: Ingreso, Egreseso (transferencias a otras cuentas), Retiro (retiro de efectivo), Inversión, Pago Tarjeta) y los registros deben estar agrupados por Categoría y con la suma de la categoria en el nombre
+- Agrega nombres mas amigables a cada concepto concepto
+- Omite el registro donde el concepto es SU ABONO... GRACIAS
+- Agregarlo a una categoría de a cuerdo al concepto
+- El concpeto MERPAGO*MELIMAS cambialo por Suscripción Disney
+- El concepto SD AC CULHUACAN cambialo por Estudios Clinicos y agregalo a la categoría de Salud
+- El concepto de Lucky Taxqueña de la categoria Alimentos
+Agrega al reporte la el total mensual a pagar de Meses sin Intereses
+Paso 3 Resumen
+Agrega un resumen de gastos de la tarjeta donde sumarices las categorias, no olvide incluir el concepto de Meses sin Intereses
+Dame 3 consejos para mejorar mis gastos en la tarjeta de crédito y dame 5 de como puedo mejorar este reporte

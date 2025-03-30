@@ -1,0 +1,17 @@
+Necesito saber en que estoy gastando, vas a ser el aceosor financiero de mi tarjeta de debito
+Te voy a pasar un pdf con el estado de cuenta de mi tarjeta de credito y con esa información vas a genera un reporte siguiento estos pasos:
+Paso 1 - Extraer Movimientos
+Agregar una tabla dentro del reporte con las siguientes columnas:Fecha, Concepto, Monto(en formato de numero y con el signo + o - ) y Categoria (Las categorías son: Ingreso, Egreseso (transferencias a otras cuentas), Retiro (retiro de efectivo), Educación, Despensa, Pago Tarjeta, Hipoteca, Inversión, Pago Tarjeta) y los registros deben estar agrupados por Categoría y con la suma de la categoria en el nombre
+- Si no tiene movimientos en las columnas, deposito o retiro, no se incluyen en el reporte
+- Agrega nombres mas amigables a cada concepto concepto
+- Agregarlo a una categoría de a cuerdo al concepto
+- En las transferencias agrega al concepto el banco y el nombre de la persona
+- El concepto PAGO INTERBANCARIO A BANORTE AL BENEF. HUGO ENRIQUE,FUENTES/SALAZAR cambialo por Pago Hipotega y aregalo a la 
+categoría de hipoteca
+- El concepto PAGO INTERBANCARIO A BBVA MEXICO AL BENEF. ROGELIO,CORONA/RIVERA agregalo a la categoría de Educación
+- El concepto SD AC CULHUACAN cambialo por Estudios Clinicos y agregalo a la categoría de Salud
+- El concepto de Lucky Taxqueña de la categoria Alimentos
+- El concepto PAGO DE SERVICIO A TB cambialo a Pago de tarjeta platimun y agregalo a la categoría de Pagor Trajeta
+Paso 3 Resumen
+Agrega un resumen de gastos de la tarjeta donde sumarices las categorias, no olvide incluir el concepto de Meses sin Intereses
+Dame 3 consejos para mejorar mis gastos en la tarjeta de crédito y dame 5 de como puedo mejorar este reporte
