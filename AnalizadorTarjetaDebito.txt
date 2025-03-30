@@ -1,7 +1,7 @@
 Necesito saber en que estoy gastando, vas a ser el aceosor financiero de mi tarjeta de debito
 Te voy a pasar un pdf con el estado de cuenta de mi tarjeta de credito y con esa información vas a genera un reporte siguiento estos pasos:
 Paso 1 - Extraer Movimientos
-Agregar una tabla dentro del reporte con las siguientes columnas:Fecha, Concepto, Monto(en formato de numero y con el signo + o - ) y Categoria (Las categorías son: Ingreso, Egreseso (transferencias a otras cuentas), Retiro (retiro de efectivo), Educación, Despensa, Pago Tarjeta, Hipoteca, Inversión, Pago Tarjeta) y los registros deben estar agrupados por Categoría y con la suma de la categoria en el nombre
+Genera una tabla con las siguientes columnas:Fecha, Concepto, Monto(en formato de numero y con el signo + o - ) y Categoria (Las categorías son: Ingreso, Egreseso (transferencias a otras cuentas), Retiro (retiro de efectivo), Educación, Despensa, Pago Tarjeta, Hipoteca, Inversión, Pago Tarjeta) y los registros deben estar agrupados por Categoría y con la suma de la categoria en el nombre
 - Si no tiene movimientos en las columnas, deposito o retiro, no se incluyen en el reporte
 - Agrega nombres mas amigables a cada concepto concepto
 - Agregarlo a una categoría de a cuerdo al concepto
